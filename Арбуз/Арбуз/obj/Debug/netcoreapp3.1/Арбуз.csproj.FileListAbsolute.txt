@@ -1,0 +1,12 @@
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Арбуз\Арбуз\bin\Debug\netcoreapp3.1\Арбуз.exe
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Арбуз\Арбуз\bin\Debug\netcoreapp3.1\Арбуз.deps.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Арбуз\Арбуз\bin\Debug\netcoreapp3.1\Арбуз.runtimeconfig.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Арбуз\Арбуз\bin\Debug\netcoreapp3.1\Арбуз.runtimeconfig.dev.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Арбуз\Арбуз\bin\Debug\netcoreapp3.1\Арбуз.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Арбуз\Арбуз\bin\Debug\netcoreapp3.1\Арбуз.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Арбуз\Арбуз\obj\Debug\netcoreapp3.1\Арбуз.AssemblyInfoInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Арбуз\Арбуз\obj\Debug\netcoreapp3.1\Арбуз.AssemblyInfo.cs
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Арбуз\Арбуз\obj\Debug\netcoreapp3.1\Арбуз.csproj.CoreCompileInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Арбуз\Арбуз\obj\Debug\netcoreapp3.1\Арбуз.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Арбуз\Арбуз\obj\Debug\netcoreapp3.1\Арбуз.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Арбуз\Арбуз\obj\Debug\netcoreapp3.1\Арбуз.genruntimeconfig.cache
