@@ -1,0 +1,12 @@
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Слишком длинные слова\Слишком длинные слова\bin\Debug\netcoreapp3.1\Слишком длинные слова.exe
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Слишком длинные слова\Слишком длинные слова\bin\Debug\netcoreapp3.1\Слишком длинные слова.deps.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Слишком длинные слова\Слишком длинные слова\bin\Debug\netcoreapp3.1\Слишком длинные слова.runtimeconfig.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Слишком длинные слова\Слишком длинные слова\bin\Debug\netcoreapp3.1\Слишком длинные слова.runtimeconfig.dev.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Слишком длинные слова\Слишком длинные слова\bin\Debug\netcoreapp3.1\Слишком длинные слова.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Слишком длинные слова\Слишком длинные слова\bin\Debug\netcoreapp3.1\Слишком длинные слова.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Слишком длинные слова\Слишком длинные слова\obj\Debug\netcoreapp3.1\Слишком длинные слова.AssemblyInfoInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Слишком длинные слова\Слишком длинные слова\obj\Debug\netcoreapp3.1\Слишком длинные слова.AssemblyInfo.cs
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Слишком длинные слова\Слишком длинные слова\obj\Debug\netcoreapp3.1\Слишком длинные слова.csproj.CoreCompileInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Слишком длинные слова\Слишком длинные слова\obj\Debug\netcoreapp3.1\Слишком длинные слова.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Слишком длинные слова\Слишком длинные слова\obj\Debug\netcoreapp3.1\Слишком длинные слова.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Слишком длинные слова\Слишком длинные слова\obj\Debug\netcoreapp3.1\Слишком длинные слова.genruntimeconfig.cache
