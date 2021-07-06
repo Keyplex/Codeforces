@@ -1,0 +1,12 @@
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Bit++\Bit++\bin\Debug\netcoreapp3.1\Bit++.exe
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Bit++\Bit++\bin\Debug\netcoreapp3.1\Bit++.deps.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Bit++\Bit++\bin\Debug\netcoreapp3.1\Bit++.runtimeconfig.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Bit++\Bit++\bin\Debug\netcoreapp3.1\Bit++.runtimeconfig.dev.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Bit++\Bit++\bin\Debug\netcoreapp3.1\Bit++.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Bit++\Bit++\bin\Debug\netcoreapp3.1\Bit++.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Bit++\Bit++\obj\Debug\netcoreapp3.1\Bit++.AssemblyInfoInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Bit++\Bit++\obj\Debug\netcoreapp3.1\Bit++.AssemblyInfo.cs
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Bit++\Bit++\obj\Debug\netcoreapp3.1\Bit++.csproj.CoreCompileInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Bit++\Bit++\obj\Debug\netcoreapp3.1\Bit++.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Bit++\Bit++\obj\Debug\netcoreapp3.1\Bit++.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Bit++\Bit++\obj\Debug\netcoreapp3.1\Bit++.genruntimeconfig.cache
