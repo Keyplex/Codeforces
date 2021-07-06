@@ -1,0 +1,12 @@
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Петя и строки\Петя и строки\bin\Debug\netcoreapp3.1\Петя и строки.exe
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Петя и строки\Петя и строки\bin\Debug\netcoreapp3.1\Петя и строки.deps.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Петя и строки\Петя и строки\bin\Debug\netcoreapp3.1\Петя и строки.runtimeconfig.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Петя и строки\Петя и строки\bin\Debug\netcoreapp3.1\Петя и строки.runtimeconfig.dev.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Петя и строки\Петя и строки\bin\Debug\netcoreapp3.1\Петя и строки.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Петя и строки\Петя и строки\bin\Debug\netcoreapp3.1\Петя и строки.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Петя и строки\Петя и строки\obj\Debug\netcoreapp3.1\Петя и строки.AssemblyInfoInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Петя и строки\Петя и строки\obj\Debug\netcoreapp3.1\Петя и строки.AssemblyInfo.cs
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Петя и строки\Петя и строки\obj\Debug\netcoreapp3.1\Петя и строки.csproj.CoreCompileInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Петя и строки\Петя и строки\obj\Debug\netcoreapp3.1\Петя и строки.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Петя и строки\Петя и строки\obj\Debug\netcoreapp3.1\Петя и строки.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Петя и строки\Петя и строки\obj\Debug\netcoreapp3.1\Петя и строки.genruntimeconfig.cache
