@@ -1,0 +1,12 @@
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Девушка или Юноша\Девушка или Юноша\bin\Debug\netcoreapp3.1\Девушка или Юноша.exe
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Девушка или Юноша\Девушка или Юноша\bin\Debug\netcoreapp3.1\Девушка или Юноша.deps.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Девушка или Юноша\Девушка или Юноша\bin\Debug\netcoreapp3.1\Девушка или Юноша.runtimeconfig.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Девушка или Юноша\Девушка или Юноша\bin\Debug\netcoreapp3.1\Девушка или Юноша.runtimeconfig.dev.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Девушка или Юноша\Девушка или Юноша\bin\Debug\netcoreapp3.1\Девушка или Юноша.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Девушка или Юноша\Девушка или Юноша\bin\Debug\netcoreapp3.1\Девушка или Юноша.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Девушка или Юноша\Девушка или Юноша\obj\Debug\netcoreapp3.1\Девушка или Юноша.AssemblyInfoInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Девушка или Юноша\Девушка или Юноша\obj\Debug\netcoreapp3.1\Девушка или Юноша.AssemblyInfo.cs
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Девушка или Юноша\Девушка или Юноша\obj\Debug\netcoreapp3.1\Девушка или Юноша.csproj.CoreCompileInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Девушка или Юноша\Девушка или Юноша\obj\Debug\netcoreapp3.1\Девушка или Юноша.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Девушка или Юноша\Девушка или Юноша\obj\Debug\netcoreapp3.1\Девушка или Юноша.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Девушка или Юноша\Девушка или Юноша\obj\Debug\netcoreapp3.1\Девушка или Юноша.genruntimeconfig.cache
