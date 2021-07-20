@@ -1,0 +1,12 @@
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Солдат и бананы\Солдат и бананы\bin\Debug\netcoreapp3.1\Солдат и бананы.exe
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Солдат и бананы\Солдат и бананы\bin\Debug\netcoreapp3.1\Солдат и бананы.deps.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Солдат и бананы\Солдат и бананы\bin\Debug\netcoreapp3.1\Солдат и бананы.runtimeconfig.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Солдат и бананы\Солдат и бананы\bin\Debug\netcoreapp3.1\Солдат и бананы.runtimeconfig.dev.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Солдат и бананы\Солдат и бананы\bin\Debug\netcoreapp3.1\Солдат и бананы.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Солдат и бананы\Солдат и бананы\bin\Debug\netcoreapp3.1\Солдат и бананы.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Солдат и бананы\Солдат и бананы\obj\Debug\netcoreapp3.1\Солдат и бананы.AssemblyInfoInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Солдат и бананы\Солдат и бананы\obj\Debug\netcoreapp3.1\Солдат и бананы.AssemblyInfo.cs
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Солдат и бананы\Солдат и бананы\obj\Debug\netcoreapp3.1\Солдат и бананы.csproj.CoreCompileInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Солдат и бананы\Солдат и бананы\obj\Debug\netcoreapp3.1\Солдат и бананы.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Солдат и бананы\Солдат и бананы\obj\Debug\netcoreapp3.1\Солдат и бананы.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Солдат и бананы\Солдат и бананы\obj\Debug\netcoreapp3.1\Солдат и бананы.genruntimeconfig.cache
