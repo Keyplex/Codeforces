@@ -1,0 +1,13 @@
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Математика спешит на помощь\Математика спешит на помощь\bin\Debug\netcoreapp3.1\Математика спешит на помощь.exe
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Математика спешит на помощь\Математика спешит на помощь\bin\Debug\netcoreapp3.1\Математика спешит на помощь.deps.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Математика спешит на помощь\Математика спешит на помощь\bin\Debug\netcoreapp3.1\Математика спешит на помощь.runtimeconfig.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Математика спешит на помощь\Математика спешит на помощь\bin\Debug\netcoreapp3.1\Математика спешит на помощь.runtimeconfig.dev.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Математика спешит на помощь\Математика спешит на помощь\bin\Debug\netcoreapp3.1\Математика спешит на помощь.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Математика спешит на помощь\Математика спешит на помощь\bin\Debug\netcoreapp3.1\Математика спешит на помощь.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Математика спешит на помощь\Математика спешит на помощь\obj\Debug\netcoreapp3.1\Математика спешит на помощь.csproj.AssemblyReference.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Математика спешит на помощь\Математика спешит на помощь\obj\Debug\netcoreapp3.1\Математика спешит на помощь.AssemblyInfoInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Математика спешит на помощь\Математика спешит на помощь\obj\Debug\netcoreapp3.1\Математика спешит на помощь.AssemblyInfo.cs
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Математика спешит на помощь\Математика спешит на помощь\obj\Debug\netcoreapp3.1\Математика спешит на помощь.csproj.CoreCompileInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Математика спешит на помощь\Математика спешит на помощь\obj\Debug\netcoreapp3.1\Математика спешит на помощь.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Математика спешит на помощь\Математика спешит на помощь\obj\Debug\netcoreapp3.1\Математика спешит на помощь.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Математика спешит на помощь\Математика спешит на помощь\obj\Debug\netcoreapp3.1\Математика спешит на помощь.genruntimeconfig.cache
