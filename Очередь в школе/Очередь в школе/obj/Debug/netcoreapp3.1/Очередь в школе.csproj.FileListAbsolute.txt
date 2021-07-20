@@ -1,0 +1,12 @@
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Очередь в школе\Очередь в школе\bin\Debug\netcoreapp3.1\Очередь в школе.exe
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Очередь в школе\Очередь в школе\bin\Debug\netcoreapp3.1\Очередь в школе.deps.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Очередь в школе\Очередь в школе\bin\Debug\netcoreapp3.1\Очередь в школе.runtimeconfig.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Очередь в школе\Очередь в школе\bin\Debug\netcoreapp3.1\Очередь в школе.runtimeconfig.dev.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Очередь в школе\Очередь в школе\bin\Debug\netcoreapp3.1\Очередь в школе.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Очередь в школе\Очередь в школе\bin\Debug\netcoreapp3.1\Очередь в школе.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Очередь в школе\Очередь в школе\obj\Debug\netcoreapp3.1\Очередь в школе.AssemblyInfoInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Очередь в школе\Очередь в школе\obj\Debug\netcoreapp3.1\Очередь в школе.AssemblyInfo.cs
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Очередь в школе\Очередь в школе\obj\Debug\netcoreapp3.1\Очередь в школе.csproj.CoreCompileInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Очередь в школе\Очередь в школе\obj\Debug\netcoreapp3.1\Очередь в школе.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Очередь в школе\Очередь в школе\obj\Debug\netcoreapp3.1\Очередь в школе.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Очередь в школе\Очередь в школе\obj\Debug\netcoreapp3.1\Очередь в школе.genruntimeconfig.cache
