@@ -1,0 +1,12 @@
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Камни на столе\Камни на столе\bin\Debug\netcoreapp3.1\Камни на столе.exe
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Камни на столе\Камни на столе\bin\Debug\netcoreapp3.1\Камни на столе.deps.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Камни на столе\Камни на столе\bin\Debug\netcoreapp3.1\Камни на столе.runtimeconfig.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Камни на столе\Камни на столе\bin\Debug\netcoreapp3.1\Камни на столе.runtimeconfig.dev.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Камни на столе\Камни на столе\bin\Debug\netcoreapp3.1\Камни на столе.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Камни на столе\Камни на столе\bin\Debug\netcoreapp3.1\Камни на столе.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Камни на столе\Камни на столе\obj\Debug\netcoreapp3.1\Камни на столе.AssemblyInfoInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Камни на столе\Камни на столе\obj\Debug\netcoreapp3.1\Камни на столе.AssemblyInfo.cs
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Камни на столе\Камни на столе\obj\Debug\netcoreapp3.1\Камни на столе.csproj.CoreCompileInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Камни на столе\Камни на столе\obj\Debug\netcoreapp3.1\Камни на столе.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Камни на столе\Камни на столе\obj\Debug\netcoreapp3.1\Камни на столе.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Камни на столе\Камни на столе\obj\Debug\netcoreapp3.1\Камни на столе.genruntimeconfig.cache
