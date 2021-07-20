@@ -1,0 +1,12 @@
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Перевод\Перевод\bin\Debug\netcoreapp3.1\Перевод.exe
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Перевод\Перевод\bin\Debug\netcoreapp3.1\Перевод.deps.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Перевод\Перевод\bin\Debug\netcoreapp3.1\Перевод.runtimeconfig.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Перевод\Перевод\bin\Debug\netcoreapp3.1\Перевод.runtimeconfig.dev.json
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Перевод\Перевод\bin\Debug\netcoreapp3.1\Перевод.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Перевод\Перевод\bin\Debug\netcoreapp3.1\Перевод.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Перевод\Перевод\obj\Debug\netcoreapp3.1\Перевод.AssemblyInfoInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Перевод\Перевод\obj\Debug\netcoreapp3.1\Перевод.AssemblyInfo.cs
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Перевод\Перевод\obj\Debug\netcoreapp3.1\Перевод.csproj.CoreCompileInputs.cache
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Перевод\Перевод\obj\Debug\netcoreapp3.1\Перевод.dll
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Перевод\Перевод\obj\Debug\netcoreapp3.1\Перевод.pdb
+C:\Users\ПАВЕЛ\source\repos\Codeforces\Перевод\Перевод\obj\Debug\netcoreapp3.1\Перевод.genruntimeconfig.cache
